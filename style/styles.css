@@ -184,6 +184,10 @@ a{
     .self-container{
         width: 90%;
     }
+    a{
+        background-color: paleturquoise;
+        font-size: 40px;
+    }
 }
 @media only screen and (min-width:669px) and (max-width:991px) {
     h3{
